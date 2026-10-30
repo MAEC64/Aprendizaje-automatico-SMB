@@ -1,0 +1,22 @@
+[A s1] ep     0 | eval x media   515.7 | mejor   814 | completados 0% |      3 s
+[A s1] ep   100 | eval x media  1136.4 | mejor  1155 | completados 0% |     51 s
+[A s1] ep   200 | eval x media  1126.0 | mejor  1126 | completados 0% |     99 s
+[A s1] ep   300 | eval x media   722.0 | mejor   722 | completados 0% |    144 s
+[A s1] ep   400 | eval x media   722.0 | mejor   722 | completados 0% |    194 s
+[A s1] ep   500 | eval x media   709.0 | mejor   710 | completados 0% |    245 s
+[A s1] ep   600 | eval x media   723.0 | mejor   723 | completados 0% |    299 s
+[A s1] ep   700 | eval x media   594.8 | mejor   595 | completados 0% |    350 s
+[A s1] ep   800 | eval x media  1942.0 | mejor  3161 | completados 50% |    408 s
+[A s1] ep   900 | eval x media   710.1 | mejor   711 | completados 0% |    460 s
+[A s1] ep  1000 | eval x media   739.6 | mejor   898 | completados 0% |    514 s
+[A s1] ep  1100 | eval x media  1417.0 | mejor  1420 | completados 0% |    565 s
+[A s1] ep  1200 | eval x media  1995.9 | mejor  2031 | completados 0% |    630 s
+[A s1] ep  1300 | eval x media   859.9 | mejor   862 | completados 0% |    687 s
+[A s1] ep  1400 | eval x media  1434.0 | mejor  1434 | completados 0% |    752 s
+[A s1] ep  1500 | eval x media  1414.5 | mejor  1415 | completados 0% |    815 s
+[A s1] ep  1600 | eval x media  1756.9 | mejor  1795 | completados 0% |    874 s
+[A s1] ep  1700 | eval x media  1433.0 | mejor  1433 | completados 0% |    939 s
+[A s1] ep  1800 | eval x media  2765.1 | mejor  2766 | completados 0% |   1012 s
+[A s1] ep  1900 | eval x media  1433.2 | mejor  1435 | completados 0% |   1085 s
+[A s1] ep  2000 | eval x media   690.8 | mejor   692 | completados 0% |   1143 s
+Listo. Archivos guardados con el prefijo /home/maec64/mario-ml/resultados/agente_A_s1_*

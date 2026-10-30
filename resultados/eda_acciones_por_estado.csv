@@ -1,0 +1,39 @@
+estado,descripcion,fotogramas,derecha,derecha+correr,derecha+correr+saltar,nada
+39,"suelo, enemigo encima, obstáculo, quieto",2595,0.0,0.0,0.0,1.0
+3,"suelo, enemigo lejos/ninguno, obstáculo, quieto",1278,0.0,0.89,0.01,0.1
+2,"suelo, enemigo lejos/ninguno, libre, rápido",834,0.0,0.8,0.01,0.18
+47,"aire, enemigo lejos/ninguno, libre, rápido",811,0.0,0.32,0.62,0.06
+0,"suelo, enemigo lejos/ninguno, libre, quieto",689,0.0,0.64,0.05,0.3
+46,"aire, enemigo lejos/ninguno, libre, lento",526,0.0,0.57,0.36,0.07
+48,"aire, enemigo lejos/ninguno, obstáculo, quieto",411,0.01,0.15,0.28,0.56
+1,"suelo, enemigo lejos/ninguno, libre, lento",405,0.0,0.94,0.0,0.06
+45,"aire, enemigo lejos/ninguno, libre, quieto",342,0.0,0.52,0.15,0.32
+5,"suelo, enemigo lejos/ninguno, obstáculo, rápido",264,0.0,0.69,0.02,0.29
+49,"aire, enemigo lejos/ninguno, obstáculo, lento",229,0.0,0.31,0.69,0.0
+4,"suelo, enemigo lejos/ninguno, obstáculo, lento",185,0.0,0.89,0.01,0.11
+11,"suelo, enemigo 48-96 px, libre, rápido",168,0.0,1.0,0.0,0.0
+55,"aire, enemigo 48-96 px, libre, lento",154,0.0,0.5,0.23,0.27
+50,"aire, enemigo lejos/ninguno, obstáculo, rápido",139,0.0,0.0,1.0,0.0
+54,"aire, enemigo 48-96 px, libre, quieto",135,0.0,0.0,0.0,1.0
+65,"aire, enemigo 16-48 px, libre, rápido",132,0.0,0.05,0.95,0.0
+83,"aire, enemigo encima, libre, rápido",123,0.0,0.33,0.67,0.0
+10,"suelo, enemigo 48-96 px, libre, lento",119,0.0,0.03,0.0,0.97
+19,"suelo, enemigo 16-48 px, libre, lento",112,0.0,0.04,0.0,0.96
+56,"aire, enemigo 48-96 px, libre, rápido",105,0.0,0.83,0.17,0.0
+20,"suelo, enemigo 16-48 px, libre, rápido",99,0.0,1.0,0.0,0.0
+74,"aire, enemigo 0-16 px, libre, rápido",91,0.0,0.24,0.76,0.0
+31,"suelo, enemigo 0-16 px, obstáculo, lento",55,0.0,0.0,0.0,1.0
+29,"suelo, enemigo 0-16 px, libre, rápido",32,0.0,1.0,0.0,0.0
+38,"suelo, enemigo encima, libre, rápido",25,0.0,1.0,0.0,0.0
+77,"aire, enemigo 0-16 px, obstáculo, rápido",22,0.0,0.23,0.68,0.09
+18,"suelo, enemigo 16-48 px, libre, quieto",22,0.0,0.68,0.0,0.32
+68,"aire, enemigo 16-48 px, obstáculo, rápido",12,0.0,0.33,0.67,0.0
+73,"aire, enemigo 0-16 px, libre, lento",10,0.0,0.0,0.8,0.2
+40,"suelo, enemigo encima, obstáculo, lento",7,0.0,0.0,0.0,1.0
+85,"aire, enemigo encima, obstáculo, lento",7,0.0,1.0,0.0,0.0
+64,"aire, enemigo 16-48 px, libre, lento",7,0.0,0.86,0.14,0.0
+82,"aire, enemigo encima, libre, lento",6,0.0,0.0,0.0,1.0
+66,"aire, enemigo 16-48 px, obstáculo, quieto",1,0.0,1.0,0.0,0.0
+63,"aire, enemigo 16-48 px, libre, quieto",1,0.0,0.0,0.0,1.0
+76,"aire, enemigo 0-16 px, obstáculo, lento",1,0.0,0.0,0.0,1.0
+75,"aire, enemigo 0-16 px, obstáculo, quieto",1,0.0,1.0,0.0,0.0

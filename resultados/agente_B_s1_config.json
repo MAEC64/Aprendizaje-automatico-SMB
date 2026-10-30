@@ -1,0 +1,14 @@
+{
+  "agente": "B",
+  "semilla": 1,
+  "episodios": 2000,
+  "alfa": 0.1,
+  "gamma": 0.9,
+  "eps_ini": 1.0,
+  "eps_fin": 0.05,
+  "frac_eps": 0.6,
+  "repetir": 4,
+  "paciencia": 60,
+  "evaluar_cada": 100,
+  "partidas_eval": 10
+}

@@ -1,0 +1,16 @@
+{
+  "cada_n_fotogramas": 10,
+  "semilla": 0,
+  "solo_ganados": true,
+  "episodios_regresion": 5,
+  "fotogramas_fuera_recorrido": 1600,
+  "episodios_con_caida_x": 5,
+  "filas_antes_submuestreo": 9211,
+  "filas_usadas": 919,
+  "episodios_entrenamiento": 4,
+  "episodios_prueba": 1,
+  "filas_entrenamiento": 735,
+  "filas_prueba": 184,
+  "pliegues_validacion": 4,
+  "modelo_elegido": "nudos (splines)"
+}

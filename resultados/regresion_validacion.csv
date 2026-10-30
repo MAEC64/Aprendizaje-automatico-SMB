@@ -1,0 +1,5 @@
+modelo,hiperparametro,RMSE_val_px,RMSE_val_desv,MAE_val_px,R2_val
+referencia (media),-,1305.944,21.762,1259.064,-0.002
+lineal,-,381.513,35.54,318.91,0.914
+polinomial,degree=8,123.756,38.55,84.346,0.99
+nudos (splines),n_knots=15,86.637,27.607,58.74,0.995

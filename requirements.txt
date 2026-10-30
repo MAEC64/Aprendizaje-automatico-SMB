@@ -1,0 +1,11 @@
+# Probado con Python 3.14 (el de Ubuntu 26.04 LTS)
+gym-super-mario-bros>=9.1
+numpy
+pandas
+pyarrow
+scikit-learn
+matplotlib
+joblib
+tqdm
+imageio
+imageio-ffmpeg

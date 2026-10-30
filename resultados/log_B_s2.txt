@@ -1,0 +1,22 @@
+[B s2] ep     0 | eval x media   312.9 | mejor   315 | completados 0% |      1 s
+[B s2] ep   100 | eval x media   724.0 | mejor   724 | completados 0% |     47 s
+[B s2] ep   200 | eval x media   972.4 | mejor  1413 | completados 0% |     94 s
+[B s2] ep   300 | eval x media   594.3 | mejor   595 | completados 0% |    145 s
+[B s2] ep   400 | eval x media   763.3 | mejor  1129 | completados 0% |    199 s
+[B s2] ep   500 | eval x media   764.6 | mejor   864 | completados 0% |    258 s
+[B s2] ep   600 | eval x media  1138.0 | mejor  1138 | completados 0% |    318 s
+[B s2] ep   700 | eval x media   723.0 | mejor   723 | completados 0% |    378 s
+[B s2] ep   800 | eval x media   920.9 | mejor  1127 | completados 0% |    434 s
+[B s2] ep   900 | eval x media  1241.2 | mejor  1242 | completados 0% |    492 s
+[B s2] ep  1000 | eval x media   898.0 | mejor   898 | completados 0% |    556 s
+[B s2] ep  1100 | eval x media  2238.5 | mejor  2759 | completados 0% |    623 s
+[B s2] ep  1200 | eval x media  1552.1 | mejor  1799 | completados 0% |    688 s
+[B s2] ep  1300 | eval x media  1128.0 | mejor  1128 | completados 0% |    753 s
+[B s2] ep  1400 | eval x media   690.6 | mejor   692 | completados 0% |    816 s
+[B s2] ep  1500 | eval x media   706.0 | mejor   707 | completados 0% |    877 s
+[B s2] ep  1600 | eval x media  1127.0 | mejor  1127 | completados 0% |    947 s
+[B s2] ep  1700 | eval x media  2401.0 | mejor  2760 | completados 0% |   1015 s
+[B s2] ep  1800 | eval x media  1496.0 | mejor  1523 | completados 0% |   1084 s
+[B s2] ep  1900 | eval x media  1127.0 | mejor  1127 | completados 0% |   1141 s
+[B s2] ep  2000 | eval x media  1126.0 | mejor  1126 | completados 0% |   1198 s
+Listo. Archivos guardados con el prefijo /home/maec64/mario-ml/resultados/agente_B_s2_*
